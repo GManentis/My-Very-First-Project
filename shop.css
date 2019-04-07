@@ -1,0 +1,29 @@
+body
+{
+ background-image:url("media/belmont-clan-4.jpg");
+ background-repeat: no-repeat;
+ background-position:center ;
+ background-attachment: fixed;
+ background-size: 100% ;
+ }
+ #news
+ {
+ display: none;
+ }
+ 
+#dis{
+	display:hidden;
+}
+
+.cntr
+{
+ background-color:black;
+ height: 700px;
+ width: 500px;
+ border: 5px solid red;
+ word-wrap:break-word;
+ margin:0 auto;
+ padding: 5px;
+ color: red;
+ 
+}
